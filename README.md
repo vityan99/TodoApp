@@ -1,12 +1,17 @@
 # Todo App - приложение для управления делами
 
-Учебный проект Todo App - сложное приложение, синхронизированное базой данный Google Firebase.
+Учебный проект Todo App - сложное приложение, синхронизированное с базой данный Google Firebase.
 
 Возможности данной системы:
 
 - Добавение/удаление новых дел
 - Авторизация
 - Регистрация
+
+![TodoApp preview-1](https://github.com/vityan99/TodoApp/blob/main/preview-1.png)
+![TodoApp preview-2](https://github.com/vityan99/TodoApp/blob/main/preview-2.png)
+![TodoApp preview-3](https://github.com/vityan99/TodoApp/blob/main/preview-3.png)
+![TodoApp preview-4](https://github.com/vityan99/TodoApp/blob/main/preview-4.png)
 
 ## Содержание
 
