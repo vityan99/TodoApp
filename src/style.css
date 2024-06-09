@@ -1,0 +1,16 @@
+td {
+  border-bottom: none !important;
+}
+
+.table-custom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.btns {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
